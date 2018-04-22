@@ -52,3 +52,42 @@ func Uploadfile(c *gin.Context) {
 	}
 	c.JSON(http.StatusOK, fmt.Sprintf("upload file name is %s", file.Filename))
 }
+
+type UserLogin struct {
+	Name    string `json:"name" form:"name" binding:"required"`
+	Address string `json:"address" form:"address" binding:"required"`
+}
+
+/**
+JSON 请求参数，用ShouldBindJSON方法bing到struct对象
+*/
+func JsonParameter(c *gin.Context) {
+	var userLogin UserLogin
+	if err := c.ShouldBindJSON(&userLogin); err == nil {
+		if userLogin.Name == "akka" {
+			fmt.Println("user %s's address is %s", userLogin.Name, userLogin.Address)
+			c.JSON(http.StatusOK, fmt.Sprintf("%s login success", userLogin.Name))
+		} else {
+			c.JSON(http.StatusUnauthorized, "unauthorized")
+		}
+	} else {
+		c.JSON(http.StatusBadRequest, fmt.Sprintf("bad request, err: ", err.Error()))
+	}
+}
+
+/**
+form 表单请求参数，用ShouldBind方法bind到struct对象
+*/
+func BingFormParameter(c *gin.Context) {
+	var userLogin UserLogin
+	if err := c.ShouldBind(&userLogin); err == nil {
+		if userLogin.Name == "akka" {
+			fmt.Println("user %s's address is %s", userLogin.Name, userLogin.Address)
+			c.JSON(http.StatusOK, fmt.Sprintf("%s login success", userLogin.Name))
+		} else {
+			c.JSON(http.StatusUnauthorized, "unauthorized")
+		}
+	} else {
+		c.JSON(http.StatusBadRequest, fmt.Sprintf("bad request, err: ", err.Error()))
+	}
+}

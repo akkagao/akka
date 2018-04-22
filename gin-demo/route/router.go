@@ -37,6 +37,25 @@ func RouterInit(r *gin.Engine) {
 		  -H "Content-Type: multipart/form-data"
 		*/
 		testGroup.POST("/uploadfile", handler.Uploadfile)
+
+		/**
+		JSON 请求参数，用ShouldBindJSON方法bing到struct对象
+		curl -X POST http://localhost:8080/test/jsonParameter \
+		-H 'Content-Type: application/json' \
+		-d '{
+			"name":"akka",
+			"address":"lanzhou"
+		}'
+		*/
+		testGroup.POST("/jsonParameter", handler.JsonParameter)
+		/**
+		form 表单请求参数，用ShouldBind方法bind到struct对象
+		curl -X POST \
+		  http://localhost:8080/test/bingFormParameter \
+		  -F name=akka \
+		  -F address=lanzhou
+		*/
+		testGroup.POST("/bingFormParameter", handler.BingFormParameter)
 	}
 
 }
