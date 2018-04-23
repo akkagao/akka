@@ -3,14 +3,23 @@ package route
 import (
 	"github.com/akkagao/akka/gin-demo/handler"
 	"github.com/gin-gonic/gin"
+	"log"
 	"net/http"
 )
+
+func TimeCase() gin.HandlerFunc {
+	return func(context *gin.Context) {
+		log.Println("before into index page")
+		context.Next()
+		log.Println("after index page")
+	}
+}
 
 /**
 初始化路由
 */
 func RouterInit(engine *gin.Engine) {
-	engine.GET("/", func(c *gin.Context) {
+	engine.GET("/", TimeCase(), func(c *gin.Context) {
 		c.JSON(http.StatusOK, "index page")
 	})
 

@@ -12,7 +12,12 @@ import (
 func main() {
 	engine := gin.Default()
 	//gin.SetMode(gin.ReleaseMode)
+
+	engine.Use(gin.Logger())
+	// 设置图标
 	engine.Use(favicon.New("./favicon.ico"))
+	engine.StaticFile("/index", "./page/index.html")
+
 	route.RouterInit(engine)
-	engine.Run(":8080")
+	engine.Run(":8088")
 }
