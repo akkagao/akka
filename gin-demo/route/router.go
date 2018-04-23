@@ -3,14 +3,19 @@ package route
 import (
 	"github.com/akkagao/akka/gin-demo/handler"
 	"github.com/gin-gonic/gin"
+	"net/http"
 )
 
 /**
 初始化路由
 */
-func RouterInit(r *gin.Engine) {
+func RouterInit(engine *gin.Engine) {
+	engine.GET("/", func(c *gin.Context) {
+		c.JSON(http.StatusOK, "index page")
+	})
+
 	// 设置路由组
-	testGroup := r.Group("/test")
+	testGroup := engine.Group("/test")
 	{
 		/**
 		获取restFul 参数
