@@ -5,6 +5,8 @@ import (
 	"github.com/gin-gonic/gin"
 	"log"
 	"net/http"
+	"github.com/swaggo/gin-swagger"
+	"github.com/swaggo/gin-swagger/swaggerFiles"
 )
 
 func TimeCase() gin.HandlerFunc {
@@ -22,6 +24,9 @@ func RouterInit(engine *gin.Engine) {
 	engine.GET("/", TimeCase(), func(c *gin.Context) {
 		c.JSON(http.StatusOK, "index page")
 	})
+
+	// 增加swagger
+	engine.GET("/swagger/*any", ginSwagger.WrapHandler(swaggerFiles.Handler))
 
 	// 设置路由组
 	testGroup := engine.Group("/test")
