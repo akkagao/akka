@@ -1,10 +1,11 @@
 package route
 
 import (
-	"github.com/akkagao/akka/gin-demo/handler"
-	"github.com/gin-gonic/gin"
 	"log"
 	"net/http"
+
+	"github.com/akkagao/akka/gin-demo/handler"
+	"github.com/gin-gonic/gin"
 	"github.com/swaggo/gin-swagger"
 	"github.com/swaggo/gin-swagger/swaggerFiles"
 )
@@ -75,6 +76,9 @@ func RouterInit(engine *gin.Engine) {
 		  -F address=lanzhou
 		*/
 		testGroup.POST("/bingFormParameter", handler.BingFormParameter)
+
+		// 生成二维码
+		testGroup.GET("/genQrCode", handler.GenQrCode)
 	}
 
 }

@@ -2,8 +2,10 @@ package handler
 
 import (
 	"fmt"
-	"github.com/gin-gonic/gin"
 	"net/http"
+
+	"github.com/gin-gonic/gin"
+	qrcode "github.com/skip2/go-qrcode"
 )
 
 /**
@@ -103,4 +105,17 @@ func BingFormParameter(c *gin.Context) {
 	} else {
 		c.JSON(http.StatusBadRequest, fmt.Sprintf("bad request, err: ", err.Error()))
 	}
+}
+
+/**
+生成二维
+浏览器访问  http://localhost:8088/test/genQrCode?value=234
+*/
+func GenQrCode(c *gin.Context) {
+	value := c.Query("value")
+	qrPng, err := qrcode.Encode(value, qrcode.Medium, 256)
+	if err != nil {
+		c.JSON(http.StatusOK, "生成二维码错误")
+	}
+	c.Writer.Write(qrPng)
 }
