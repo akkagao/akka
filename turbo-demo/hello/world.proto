@@ -1,0 +1,15 @@
+syntax = "proto3";
+package proto;
+
+message SayWorldRequest {
+    string yourWold = 1;
+    string password = 2;
+}
+
+message SayWorldResponse {
+    string message = 1;
+}
+
+service World {
+    rpc sayWorld (SayWorldRequest) returns (SayWorldResponse) {}
+}

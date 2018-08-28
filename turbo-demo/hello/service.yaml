@@ -1,0 +1,15 @@
+config:
+  environment: development
+  service_root_path: /Users/crazywolf/go/gopath/src/github.com/akkagao/turbo-demo/hello
+  turbo_log_path: log
+  http_port: 8081
+  grpc_service_name: Hello
+  grpc_service_host: 127.0.0.1
+  grpc_service_port: 50051
+  thrift_service_name: Hello
+  thrift_service_host: 127.0.0.1
+  thrift_service_port: 50052
+
+urlmapping:
+  - GET /hello SayHello
+  - GET /sayworld SayWorld
