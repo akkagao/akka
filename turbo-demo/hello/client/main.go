@@ -23,7 +23,7 @@ import (
 	"os"
 	"time"
 
-	pb "github.com/akkagao/turbo-demo/hello/gen/proto"
+	pb "github.com/akkagao/akka/turbo-demo/hello/gen/proto"
 	"golang.org/x/net/context"
 	"google.golang.org/grpc"
 )

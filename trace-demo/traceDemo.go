@@ -22,7 +22,7 @@ func main() {
 	fmt.Println("=======以上为模版代码直接使用就好，下面随便写点东西作为测试使用========")
 
 	count := 0
-	for i := 0; i < 1000; i++ {
+	for i := 0; i < 10000; i++ {
 		count += i
 	}
 	fmt.Println(count)
