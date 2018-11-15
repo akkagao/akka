@@ -1,0 +1,3 @@
+FROM scratch
+ADD docker-go page favicon.ico /
+CMD ["/docker-go"]
