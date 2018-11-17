@@ -1,0 +1,7 @@
+env: dev
+
+sys:
+  port: 8088
+
+database:
+  db_mall: user=mall password= dbname=mall host=localhost port=5432 sslmode=disable application_name=mall
