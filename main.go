@@ -1,7 +1,12 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+	"math/rand"
+)
 
 func main() {
-	fmt.Println("234234")
+	// fmt.Println(time.Now().Nanosecond())
+	b := rand.Perm(20)
+	fmt.Println(b)
 }
