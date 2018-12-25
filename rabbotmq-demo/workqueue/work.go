@@ -12,11 +12,15 @@ func main() {
 	goutil.ChkErr(err)
 	defer conn.Close()
 	ch, err := conn.Channel()
-	msgs, err := ch.Consume("word", "", true, false, false, false, nil)
 	goutil.ChkErr(err)
+	msgs, err := ch.Consume("work", "", true, false, false, false, nil)
+	goutil.ChkErr(err)
+	fc := make(chan struct{})
 	go func() {
 		for msg := range msgs {
-			fmt.Println(string(msg.Body))
+			fmt.Printf("%s\n", msg.Body)
 		}
 	}()
+	<-fc
+
 }
