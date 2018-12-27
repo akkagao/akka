@@ -12,16 +12,17 @@ func main() {
 	bubbleSort(array)
 	fmt.Println("排序后：", array)
 }
+
 func bubbleSort(array []int) {
-	flag := false
+	flag := true
 	for i := 0; i < len(array); i++ {
 		for j := i + 1; j < len(array); j++ {
 			if array[i] > array[j] {
 				array[i], array[j] = array[j], array[i]
-				flag = true
+				flag = false
 			}
 		}
-		if !flag {
+		if flag {
 			return
 		}
 	}

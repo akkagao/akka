@@ -11,6 +11,7 @@ func main() {
 	quickSort(array, 0, len(array)-1)
 	fmt.Println("排序后", array)
 }
+
 func quickSort(array []int, low, heigh int) {
 	if low > heigh {
 		return
