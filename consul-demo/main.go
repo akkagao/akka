@@ -59,6 +59,7 @@ func StartService(addr string) {
 }
 
 func main() {
+	packages
 	var status_monitor_addr, service_name, service_ip, consul_addr, found_service string
 	var service_port int
 	flag.StringVar(&consul_addr, "consul_addr", "localhost:8500", "host:port of the service stuats monitor interface")

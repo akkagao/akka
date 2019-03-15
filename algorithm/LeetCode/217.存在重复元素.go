@@ -39,12 +39,12 @@
 // 	fmt.Println(containsDuplicate([]int{1, 2, 3, 1}))
 // }
 func containsDuplicate(nums []int) bool {
-	containsMap := make(map[int]bool, 0)
+	m := make(map[int]struct{}, 0)
 	for _, value := range nums {
-		if _, ok := containsMap[value]; ok {
+		if _, ok := m[value]; ok {
 			return true
 		}
-		containsMap[value] = true
+		m[value] = struct{}{}
 	}
 	return false
 }
