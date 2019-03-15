@@ -10,3 +10,4 @@ debug
 martiniStudy
 /gin-demo/gin-demo
 chaincode/helloworld/helloworld
+*.DS_Store
