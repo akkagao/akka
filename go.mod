@@ -11,8 +11,11 @@ require (
 	github.com/boltdb/bolt v1.3.1 // indirect
 	github.com/couchbase/vellum v0.0.0-20190111184608-e91b68ff3efe // indirect
 	github.com/edsrzf/mmap-go v1.0.0 // indirect
-	github.com/golang/protobuf v1.3.0 // indirect
+	github.com/golang/protobuf v1.3.1 // indirect
+	github.com/micro/protobuf v0.0.0-20180321161605-ebd3be6d4fdb // indirect
+	github.com/micro/protoc-gen-micro v0.6.0 // indirect
 	github.com/steveyen/gtreap v0.0.0-20150807155958-0abe01ef9be2 // indirect
 	golang.org/x/net v0.0.0-20190310074541-c10a0554eabf // indirect
 	golang.org/x/sys v0.0.0-20190310054646-10058d7d4faa // indirect
+	google.golang.org/genproto v0.0.0-20180831171423-11092d34479b // indirect
 )

@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+import "api-base.proto";
+
+
+service Example {
+	rpc Call(go.api.Request) returns(go.api.Response) {};
+}
+
+service Foo {
+	rpc Bar(go.api.Request) returns(go.api.Response) {};
+}
