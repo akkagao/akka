@@ -1,0 +1,30 @@
+/**
+ * This file should be ignored when making example docs.是的发送到发
+ *
+ */
+syntax = "proto3";
+package proto;
+
+
+/**
+请求对象
+*/
+message HelloRequest {
+  string greeting = 1; // 参数
+}
+
+/**
+请求返回值
+*/
+message HelloResponse {
+  string reply = 1; // 返回值
+  repeated int32 number=4; // 不知道干什么的
+}
+
+/**
+方法列表
+*/
+service HelloService {
+  // 输出hello
+  rpc SayHello(HelloRequest) returns (HelloResponse){} 
+}

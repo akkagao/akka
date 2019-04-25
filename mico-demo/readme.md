@@ -17,6 +17,10 @@ protoc --go_out=plugins=grpc:. --micro_out==plugins=grpc:. api-base.proto
 ```bash
 micro api --handler=api
 ```
+## 启动web 管理页面
+```bash
+micro web
+```
 
 ## 启动api服务
 ```bash
