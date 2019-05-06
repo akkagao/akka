@@ -2,3 +2,5 @@ github.com/pingcap/check v0.0.0-20190102082844-67f458068fc8 h1:USx2/E1bX46VG32FI
 github.com/pingcap/check v0.0.0-20190102082844-67f458068fc8/go.mod h1:B1+S9LNcuMyLH/4HMTViQOJevkGiik3wW2AN9zb2fNQ=
 github.com/pingcap/tidb v2.0.11+incompatible h1:Shz+ry1DzQNsPk1QAejnM+5tgjbwZuzPnIER5aCjQ6c=
 github.com/pingcap/tidb v2.0.11+incompatible/go.mod h1:I8C6jrPINP2rrVunTRd7C9fRRhQrtR43S1/CL5ix/yQ=
+gopkg.in/ceshihao/testleak.v0 v0.0.0-20171212075658-3f16900b0faa h1:hevLizB+WK2NjbfnrJQmICHkt5sstLRJZqYvxzUz3bo=
+gopkg.in/ceshihao/testleak.v0 v0.0.0-20171212075658-3f16900b0faa/go.mod h1:h3Mq5UwYAbBtWtGXwCvqu8Y7vHeD1osEIZCOg+Rq6ic=

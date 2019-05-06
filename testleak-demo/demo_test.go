@@ -1,0 +1,44 @@
+package testleak_demo
+
+import (
+	"testing"
+	"time"
+
+	"gopkg.in/ceshihao/testleak.v0"
+)
+
+func Test_demo2(t *testing.T) {
+	defer testleak.TestLeak(t)()
+	demo2(10)
+}
+
+func TestLeakNoGoroutine(t *testing.T) {
+	defer testleak.TestLeak(t)()
+	func() {
+		time.Sleep(5000 * time.Millisecond)
+	}()
+}
+
+func TestLeakShortGoroutine(t *testing.T) {
+	defer testleak.TestLeak(t)()
+	go func() {
+		time.Sleep(5 * time.Millisecond)
+	}()
+}
+
+func TestLeakLongGoroutine(t *testing.T) {
+	// demo Goroutine leak failure case by comment the following line
+	t.Skip("Skip this case because Goroutine leak failure")
+	defer testleak.TestLeak(t)()
+	go func() {
+		time.Sleep(5000 * time.Millisecond)
+	}()
+}
+
+func TestLeakAppendWhiteList(t *testing.T) {
+	//AppendTestLeakWhiteList("time.Sleep(")
+	defer testleak.TestLeak(t)()
+	go func() {
+		time.Sleep(5000 * time.Millisecond)
+	}()
+}

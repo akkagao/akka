@@ -15,6 +15,7 @@ require (
 	github.com/go-logfmt/logfmt v0.4.0 // indirect
 	github.com/gogo/protobuf v1.2.1
 	github.com/golang/protobuf v1.3.1 // indirect
+	github.com/gomodule/redigo v2.0.0+incompatible
 	github.com/gorilla/mux v1.7.0
 	github.com/metaverse/truss v0.1.0 // indirect
 	github.com/micro/protobuf v0.0.0-20180321161605-ebd3be6d4fdb // indirect
