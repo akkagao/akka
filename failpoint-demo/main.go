@@ -15,7 +15,9 @@ func demo() (int, error) {
 
 func demo2() (int, error) {
 	failpoint.Inject("failpoint-name", func(val failpoint.Value) {
-		failpoint.Return(val.(int), errors.New("hahah"))
+		if val.(bool) {
+			failpoint.Return(0, errors.New("hehe"))
+		}
 	})
 	return 1, nil
 }
