@@ -1,8 +1,9 @@
-package helloworld
+package main
 
 import (
 	"context"
 	"log"
+	"time"
 
 	proto "github.com/micro/examples/helloworld/proto"
 	"github.com/micro/go-micro"
@@ -17,11 +18,11 @@ func (g *Greeter) Hello(ctx context.Context, req *proto.HelloRequest, rsp *proto
 
 func main() {
 	service := micro.NewService(
-		micro.Name("greeter"),
+		micro.Name("go.micro.srv.hello"),
+		micro.RegisterTTL(time.Second*30),
 	)
 
 	service.Init()
-
 	proto.RegisterGreeterHandler(service.Server(), new(Greeter))
 
 	if err := service.Run(); err != nil {

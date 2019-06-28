@@ -17,9 +17,11 @@ require (
 	github.com/golang/protobuf v1.3.1 // indirect
 	github.com/gomodule/redigo v2.0.0+incompatible
 	github.com/gorilla/mux v1.7.0
+	github.com/mailru/easyjson v0.0.0-20190403194419-1ea4449da983
 	github.com/metaverse/truss v0.1.0 // indirect
 	github.com/micro/protobuf v0.0.0-20180321161605-ebd3be6d4fdb // indirect
 	github.com/micro/protoc-gen-micro v0.6.0 // indirect
+	github.com/pingcap/failpoint v0.0.0-20190430075617-bf45ab20bfc4 // indirect
 	github.com/pkg/errors v0.8.1
 	github.com/steveyen/gtreap v0.0.0-20150807155958-0abe01ef9be2 // indirect
 	golang.org/x/net v0.0.0-20190310074541-c10a0554eabf // indirect

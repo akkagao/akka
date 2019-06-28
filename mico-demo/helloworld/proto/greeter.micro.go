@@ -2,7 +2,7 @@
 // source: greeter.proto
 
 /*
-Package greeter is a generated protocol buffer package.
+Package go_micro_srv_greeter is a generated protocol buffer package.
 
 It is generated from these files:
 	greeter.proto
@@ -11,17 +11,16 @@ It has these top-level messages:
 	HelloRequest
 	HelloResponse
 */
-package greeter
+package go_micro_srv_greeter
+
+import proto "github.com/golang/protobuf/proto"
+import fmt "fmt"
+import math "math"
 
 import (
-	"context"
-	"fmt"
-	"math"
-
-	"github.com/akka/mico-demo/helloworld"
-	"github.com/golang/protobuf/proto"
-	"github.com/micro/go-micro/client"
-	"github.com/micro/go-micro/server"
+	context "context"
+	client "github.com/micro/go-micro/client"
+	server "github.com/micro/go-micro/server"
 )
 
 // Reference imports to suppress errors if they are not otherwise used.
@@ -43,7 +42,7 @@ var _ server.Option
 // Client API for Greeter service
 
 type GreeterService interface {
-	Hello(ctx context.Context, in *helloworld.HelloRequest, opts ...client.CallOption) (*helloworld.HelloResponse, error)
+	Hello(ctx context.Context, in *HelloRequest, opts ...client.CallOption) (*HelloResponse, error)
 }
 
 type greeterService struct {
@@ -56,7 +55,7 @@ func NewGreeterService(name string, c client.Client) GreeterService {
 		c = client.NewClient()
 	}
 	if len(name) == 0 {
-		name = "greeter"
+		name = "go.micro.srv.greeter"
 	}
 	return &greeterService{
 		c:    c,
@@ -64,9 +63,9 @@ func NewGreeterService(name string, c client.Client) GreeterService {
 	}
 }
 
-func (c *greeterService) Hello(ctx context.Context, in *helloworld.HelloRequest, opts ...client.CallOption) (*helloworld.HelloResponse, error) {
+func (c *greeterService) Hello(ctx context.Context, in *HelloRequest, opts ...client.CallOption) (*HelloResponse, error) {
 	req := c.c.NewRequest(c.name, "Greeter.Hello", in)
-	out := new(helloworld.HelloResponse)
+	out := new(HelloResponse)
 	err := c.c.Call(ctx, req, out, opts...)
 	if err != nil {
 		return nil, err
@@ -77,12 +76,12 @@ func (c *greeterService) Hello(ctx context.Context, in *helloworld.HelloRequest,
 // Server API for Greeter service
 
 type GreeterHandler interface {
-	Hello(context.Context, *helloworld.HelloRequest, *helloworld.HelloResponse) error
+	Hello(context.Context, *HelloRequest, *HelloResponse) error
 }
 
 func RegisterGreeterHandler(s server.Server, hdlr GreeterHandler, opts ...server.HandlerOption) error {
 	type greeter interface {
-		Hello(ctx context.Context, in *helloworld.HelloRequest, out *helloworld.HelloResponse) error
+		Hello(ctx context.Context, in *HelloRequest, out *HelloResponse) error
 	}
 	type Greeter struct {
 		greeter
@@ -95,6 +94,6 @@ type greeterHandler struct {
 	GreeterHandler
 }
 
-func (h *greeterHandler) Hello(ctx context.Context, in *helloworld.HelloRequest, out *helloworld.HelloResponse) error {
+func (h *greeterHandler) Hello(ctx context.Context, in *HelloRequest, out *HelloResponse) error {
 	return h.GreeterHandler.Hello(ctx, in, out)
 }
