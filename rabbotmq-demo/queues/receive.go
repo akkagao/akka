@@ -12,11 +12,14 @@ func main() {
 	goutil.ChkErr(err)
 	defer conn.Close()
 	ch, err := conn.Channel()
-	msgs, err := ch.Consume("word", "", true, false, false, false, nil)
+	q, err := ch.QueueDeclare("hello", false, false, false, false, nil)
+
+	msgs, err := ch.Consume(q.Name, "", true, false, false, false, nil)
 	goutil.ChkErr(err)
 	go func() {
 		for msg := range msgs {
 			fmt.Println(string(msg.Body))
 		}
 	}()
+	select {}
 }

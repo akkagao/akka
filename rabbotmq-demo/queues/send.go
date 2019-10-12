@@ -12,6 +12,7 @@ func main() {
 	defer conn.Close()
 	ch, err := conn.Channel()
 	goutil.ChkErr(err)
+	defer ch.Close()
 	q, err := ch.QueueDeclare("hello", false, false, false, false, nil)
 	body := "world"
 	ch.Publish("", q.Name, false, false, amqp.Publishing{

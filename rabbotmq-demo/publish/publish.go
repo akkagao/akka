@@ -23,28 +23,29 @@ func main() {
         failOnError(err, "Failed to open a channel")
         defer ch.Close()
 
-        q, err := ch.QueueDeclare(
-                "task_queue", // name
-                true,         // durable
-                false,        // delete when unused
-                false,        // exclusive
-                false,        // no-wait
-                nil,          // arguments
+        err = ch.ExchangeDeclare(
+                "logs",   // name
+                "fanout", // type
+                true,     // durable
+                false,    // auto-deleted
+                false,    // internal
+                false,    // no-wait
+                nil,      // arguments
         )
-        failOnError(err, "Failed to declare a queue")
+        failOnError(err, "Failed to declare an exchange")
 
         body := bodyFrom(os.Args)
         err = ch.Publish(
-                "",           // exchange
-                q.Name,       // routing key
-                false,        // mandatory
-                false,
+                "logs", // exchange
+                "",     // routing key
+                false,  // mandatory
+                false,  // immediate
                 amqp.Publishing{
-                        DeliveryMode: amqp.Persistent,
-                        ContentType:  "text/plain",
-                        Body:         []byte(body),
+                        ContentType: "text/plain",
+                        Body:        []byte(body),
                 })
         failOnError(err, "Failed to publish a message")
+
         log.Printf(" [x] Sent %s", body)
 }
 

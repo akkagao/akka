@@ -23,37 +23,48 @@ func main() {
         failOnError(err, "Failed to open a channel")
         defer ch.Close()
 
-        q, err := ch.QueueDeclare(
-                "task_queue", // name
+        err = ch.ExchangeDeclare(
+                "logs_topic", // name
+                "topic",      // type
                 true,         // durable
-                false,        // delete when unused
-                false,        // exclusive
+                false,        // auto-deleted
+                false,        // internal
                 false,        // no-wait
                 nil,          // arguments
         )
-        failOnError(err, "Failed to declare a queue")
+        failOnError(err, "Failed to declare an exchange")
 
         body := bodyFrom(os.Args)
         err = ch.Publish(
-                "",           // exchange
-                q.Name,       // routing key
-                false,        // mandatory
-                false,
+                "logs_topic",          // exchange
+                severityFrom(os.Args), // routing key
+                false, // mandatory
+                false, // immediate
                 amqp.Publishing{
-                        DeliveryMode: amqp.Persistent,
-                        ContentType:  "text/plain",
-                        Body:         []byte(body),
+                        ContentType: "text/plain",
+                        Body:        []byte(body),
                 })
         failOnError(err, "Failed to publish a message")
+
         log.Printf(" [x] Sent %s", body)
 }
 
 func bodyFrom(args []string) string {
         var s string
-        if (len(args) < 2) || os.Args[1] == "" {
+        if (len(args) < 3) || os.Args[2] == "" {
                 s = "hello"
         } else {
-                s = strings.Join(args[1:], " ")
+                s = strings.Join(args[2:], " ")
+        }
+        return s
+}
+
+func severityFrom(args []string) string {
+        var s string
+        if (len(args) < 2) || os.Args[1] == "" {
+                s = "anonymous.info"
+        } else {
+                s = os.Args[1]
         }
         return s
 }
