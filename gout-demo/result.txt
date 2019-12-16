@@ -1,0 +1,423 @@
+http code:404 world:4194_on the weekend image:http://reading-cdn.dubaner.com/resource/word/image/G4S1U2_on_the_weekend.png
+http code:404 world:4229_by school bus image:http://reading-cdn.dubaner.com/resource/word/image/G4S1U3_by_school_bus.png
+http code:404 world:4642_look forward to image:http://reading-cdn.dubaner.com/resource/word/image/G6S1U6_look_forward_to.png
+http code:404 world:4074_jacket image:http://reading-cdn.dubaner.com/resource/word/image/G3S1U5_jacket.png
+http code:404 world:4333_street image:http://reading-cdn.dubaner.com/resource/word/image/G4S2U2_street.png
+http code:404 world:4078_look forward to image:http://reading-cdn.dubaner.com/resource/word/image/G3S1U5_look_forward_to.png
+http code:404 world:4306_between image:http://reading-cdn.dubaner.com/resource/word/image/G4S2U1_between.png
+http code:404 world:3892_sister image:http://reading-cdn.dubaner.com/resource/word/image/G2S1U1_sister.png
+http code:404 world:4234_snow image:http://reading-cdn.dubaner.com/resource/word/image/G4S1U3_snow.png
+http code:404 world:4503_watched TV image:http://reading-cdn.dubaner.com/resource/word/image/G5S2U4_watched_TV.png
+http code:404 world:4521_bought some gifts image:http://reading-cdn.dubaner.com/resource/word/image/G5S2U5_bought_some_gifts.png
+http code:404 world:4095_November image:http://reading-cdn.dubaner.com/resource/word/image/G3S1U6_November.png
+http code:404 world:4262_Be careful image:http://reading-cdn.dubaner.com/resource/word/image/G4S1U5_Be_careful.png
+http code:404 world:4523_left image:http://reading-cdn.dubaner.com/resource/word/image/G5S2U5_left.png
+http code:404 world:4624_scientist image:http://reading-cdn.dubaner.com/resource/word/image/G6S1U5_scientist.png
+http code:404 world:4514_took photos image:http://reading-cdn.dubaner.com/resource/word/image/G5S2U5_took_photos.png
+http code:404 world:4672_talk about image:http://reading-cdn.dubaner.com/resource/word/image/G6S2U4_talk_about.png
+http code:404 world:4033_rice image:http://reading-cdn.dubaner.com/resource/word/image/G3S1U3_rice.png
+http code:404 world:3987_Tuesday image:http://reading-cdn.dubaner.com/resource/word/image/G2S2U6_Tuesday.png
+http code:404 world:4483_tenth(10th) image:http://reading-cdn.dubaner.com/resource/word/image/G5S2U2_tenth(10th).png
+http code:404 world:4414_sheep image:http://reading-cdn.dubaner.com/resource/word/image/G5S1U3_sheep.png
+http code:404 world:4473_twenty-fifth(25th) image:http://reading-cdn.dubaner.com/resource/word/image/G5S2U2_twenty-fifth(25th).png
+http code:404 world:4533_went to school image:http://reading-cdn.dubaner.com/resource/word/image/G5S2U6_went_to_school.png
+http code:404 world:4504_rowed a boat image:http://reading-cdn.dubaner.com/resource/word/image/G5S2U4_rowed_a_boat.png
+http code:404 world:4227_by car image:http://reading-cdn.dubaner.com/resource/word/image/G4S1U3_by_car.png
+http code:404 world:4482_make a poster image:http://reading-cdn.dubaner.com/resource/word/image/G5S2U2_make_a_poster.png
+http code:404 world:4271_street image:http://reading-cdn.dubaner.com/resource/word/image/G4S1U5_street.png
+http code:404 world:4598_metre image:http://reading-cdn.dubaner.com/resource/word/image/G6S1U3_metre.png
+http code:404 world:3918_hospital image:http://reading-cdn.dubaner.com/resource/word/image/G2S1U4_hospital.png
+http code:404 world:4446_take out the rubbish image:http://reading-cdn.dubaner.com/resource/word/image/G5S1U6_take_out_the_rubbish.png
+http code:404 world:3928_too image:http://reading-cdn.dubaner.com/resource/word/image/G2S1U6_too.png
+http code:404 world:4226_by bus image:http://reading-cdn.dubaner.com/resource/word/image/G4S1U3_by_bus.png
+http code:404 world:4298_turn right image:http://reading-cdn.dubaner.com/resource/word/image/G4S2U1_turn_right.png
+http code:404 world:4507_jumped rope image:http://reading-cdn.dubaner.com/resource/word/image/G5S2U4_jumped_rope.png
+http code:404 world:4093_March image:http://reading-cdn.dubaner.com/resource/word/image/G3S1U6_March.png
+http code:404 world:4402_young image:http://reading-cdn.dubaner.com/resource/word/image/G5S1U2_young.png
+http code:404 world:4499_played chess image:http://reading-cdn.dubaner.com/resource/word/image/G5S2U4_played_chess.png
+http code:404 world:4532_went to kindergarten image:http://reading-cdn.dubaner.com/resource/word/image/G5S2U6_went_to_kindergarten.png
+http code:404 world:4267_red image:http://reading-cdn.dubaner.com/resource/word/image/G4S1U5_red.png
+http code:404 world:4621_poem image:http://reading-cdn.dubaner.com/resource/word/image/G6S1U5_poem.png
+http code:404 world:3856_plane image:http://reading-cdn.dubaner.com/resource/word/image/G1S2U3_plane.png
+http code:404 world:4338_travel image:http://reading-cdn.dubaner.com/resource/word/image/G4S2U3_travel.png
+http code:404 world:4129_ride a bike image:http://reading-cdn.dubaner.com/resource/word/image/G3S2U3_ride_a_bike.png
+http code:404 world:3824_nine image:http://reading-cdn.dubaner.com/resource/word/image/G1S1U4_nine.png
+http code:404 world:4175_light image:http://reading-cdn.dubaner.com/resource/word/image/G3S2U6_light.png
+http code:404 world:4176_living room image:http://reading-cdn.dubaner.com/resource/word/image/G3S2U6_living_room.png
+http code:404 world:4232_by taxi image:http://reading-cdn.dubaner.com/resource/word/image/G4S1U3_by_taxi.png
+http code:404 world:3997_year image:http://reading-cdn.dubaner.com/resource/word/image/G3S1U1_year.png
+http code:404 world:4124_play chess image:http://reading-cdn.dubaner.com/resource/word/image/G3S2U3_play_chess.png
+http code:404 world:4323_buy toys image:http://reading-cdn.dubaner.com/resource/word/image/G4S2U2_buy_toys.png
+http code:404 world:3958_winter image:http://reading-cdn.dubaner.com/resource/word/image/G2S2U3_winter.png
+http code:404 world:4161_in one hour image:http://reading-cdn.dubaner.com/resource/word/image/G3S2U5_in_one_hour.png
+http code:404 world:4384_party image:http://reading-cdn.dubaner.com/resource/word/image/G5S1U1_party.png
+http code:404 world:4531_was born image:http://reading-cdn.dubaner.com/resource/word/image/G5S2U6_was_born.png
+http code:404 world:4539_learned to walk image:http://reading-cdn.dubaner.com/resource/word/image/G5S2U6_learned_to_walk.png
+http code:404 world:3994_old image:http://reading-cdn.dubaner.com/resource/word/image/G3S1U1_old.png
+http code:404 world:4447_tidy the desk image:http://reading-cdn.dubaner.com/resource/word/image/G5S1U6_tidy_the_desk.png
+http code:404 world:4474_plant image:http://reading-cdn.dubaner.com/resource/word/image/G5S2U2_plant.png
+http code:404 world:4527_the Stone Forest image:http://reading-cdn.dubaner.com/resource/word/image/G5S2U5_the_Stone_Forest.png
+http code:404 world:4610_hurt image:http://reading-cdn.dubaner.com/resource/word/image/G6S1U4_hurt.png
+http code:404 world:4359_once a week image:http://reading-cdn.dubaner.com/resource/word/image/G4S2U5_once_a_week.png
+http code:404 world:4388_polite image:http://reading-cdn.dubaner.com/resource/word/image/G5S1U1_polite.png
+http code:404 world:4582_the White House image:http://reading-cdn.dubaner.com/resource/word/image/G6S1U2_the_White_House.png
+http code:404 world:4032_potato image:http://reading-cdn.dubaner.com/resource/word/image/G3S1U3_potato.png
+http code:404 world:4422_a lot image:http://reading-cdn.dubaner.com/resource/word/image/G5S1U4_a_lot.png
+http code:404 world:4577_Sydney image:http://reading-cdn.dubaner.com/resource/word/image/G6S1U2_Sydney.png
+http code:404 world:4263_run down the stairs image:http://reading-cdn.dubaner.com/resource/word/image/G4S1U5_run_down_the_stairs.png
+http code:404 world:4469_Father's Day image:http://reading-cdn.dubaner.com/resource/word/image/G5S2U2_Father's_Day.png
+http code:404 world:4616_paint image:http://reading-cdn.dubaner.com/resource/word/image/G6S1U5_paint.png
+http code:404 world:4023_the matter image:http://reading-cdn.dubaner.com/resource/word/image/G3S1U2_the_matter.png
+http code:404 world:4654_public library image:http://reading-cdn.dubaner.com/resource/word/image/G6S2U2_public_library.png
+http code:404 world:4290_Monday image:http://reading-cdn.dubaner.com/resource/word/image/G4S1U6_Monday.png
+http code:404 world:4310_school image:http://reading-cdn.dubaner.com/resource/word/image/G4S2U1_school.png
+http code:404 world:4324_hotel image:http://reading-cdn.dubaner.com/resource/word/image/G4S2U2_hotel.png
+http code:404 world:4528_fifteenth(15th) image:http://reading-cdn.dubaner.com/resource/word/image/G5S2U6_fifteenth(15th).png
+http code:404 world:4340_row a boat image:http://reading-cdn.dubaner.com/resource/word/image/G4S2U3_row_a_boat.png
+http code:404 world:4520_saw flowers image:http://reading-cdn.dubaner.com/resource/word/image/G5S2U5_saw_flowers.png
+http code:404 world:3974_thirty image:http://reading-cdn.dubaner.com/resource/word/image/G2S2U4_thirty.png
+http code:404 world:4132_sing songs image:http://reading-cdn.dubaner.com/resource/word/image/G3S2U3_sing_songs.png
+http code:404 world:4558_morning tea image:http://reading-cdn.dubaner.com/resource/word/image/G6S1U1_morning_tea.png
+http code:404 world:4121_tomorrow image:http://reading-cdn.dubaner.com/resource/word/image/G3S2U3_tomorrow.png
+http code:404 world:4481_special image:http://reading-cdn.dubaner.com/resource/word/image/G5S2U2_special.png
+http code:404 world:4434_wonderful image:http://reading-cdn.dubaner.com/resource/word/image/G5S1U5_wonderful.png
+http code:404 world:4489_write a letter image:http://reading-cdn.dubaner.com/resource/word/image/G5S2U3_write_a_letter.png
+http code:404 world:3819_six image:http://reading-cdn.dubaner.com/resource/word/image/G1S1U4_six.png
+http code:404 world:3880_shirt image:http://reading-cdn.dubaner.com/resource/word/image/G1S2U6_shirt.png
+http code:404 world:4203_go to a drawing club image:http://reading-cdn.dubaner.com/resource/word/image/G4S1U2_go_to_a_drawing_club.png
+http code:404 world:4296_toy image:http://reading-cdn.dubaner.com/resource/word/image/G4S2U1_toy.png
+http code:404 world:4312_hospital image:http://reading-cdn.dubaner.com/resource/word/image/G4S2U1_hospital.png
+http code:404 world:4295_across from image:http://reading-cdn.dubaner.com/resource/word/image/G4S2U1_across_from.png
+http code:404 world:4193_swim image:http://reading-cdn.dubaner.com/resource/word/image/G4S1U1_swim.png
+http code:404 world:4182_ping-pong image:http://reading-cdn.dubaner.com/resource/word/image/G4S1U1_ping-pong.png
+http code:404 world:4280_bus driver image:http://reading-cdn.dubaner.com/resource/word/image/G4S1U6_bus_driver.png
+http code:404 world:3821_ten image:http://reading-cdn.dubaner.com/resource/word/image/G1S1U4_ten.png
+http code:404 world:4037_shopping list image:http://reading-cdn.dubaner.com/resource/word/image/G3S1U3_shopping_list.png
+http code:404 world:4471_Tree Planting Day image:http://reading-cdn.dubaner.com/resource/word/image/G5S2U2_Tree_Planting_Day.png
+http code:404 world:4068_shirt image:http://reading-cdn.dubaner.com/resource/word/image/G3S1U5_shirt.png
+http code:404 world:4088_January image:http://reading-cdn.dubaner.com/resource/word/image/G3S1U6_January.png
+http code:404 world:3823_there image:http://reading-cdn.dubaner.com/resource/word/image/G1S1U4_there.png
+http code:404 world:4014_head image:http://reading-cdn.dubaner.com/resource/word/image/G3S1U2_head.png
+http code:404 world:4511_listened to music image:http://reading-cdn.dubaner.com/resource/word/image/G5S2U4_listened_to_music.png
+http code:404 world:4004_new image:http://reading-cdn.dubaner.com/resource/word/image/G3S1U1_new.png
+http code:404 world:4252_shop image:http://reading-cdn.dubaner.com/resource/word/image/G4S1U4_shop.png
+http code:404 world:4360_twice a week image:http://reading-cdn.dubaner.com/resource/word/image/G4S2U5_twice_a_week.png
+http code:404 world:4155_feeding the fish image:http://reading-cdn.dubaner.com/resource/word/image/G3S2U5_feeding_the_fish.png
+http code:404 world:4089_July image:http://reading-cdn.dubaner.com/resource/word/image/G3S1U6_July.png
+http code:404 world:4270_stop image:http://reading-cdn.dubaner.com/resource/word/image/G4S1U5_stop.png
+http code:404 world:3979_go to bed image:http://reading-cdn.dubaner.com/resource/word/image/G2S2U5_go_to_bed.png
+http code:404 world:4195_paint image:http://reading-cdn.dubaner.com/resource/word/image/G4S1U2_paint.png
+http code:404 world:4408_panda image:http://reading-cdn.dubaner.com/resource/word/image/G5S1U3_panda.png
+http code:404 world:3925_hill image:http://reading-cdn.dubaner.com/resource/word/image/G2S1U5_hill.png
+http code:404 world:3938_New Year image:http://reading-cdn.dubaner.com/resource/word/image/G2S1U6_New_Year.png
+http code:404 world:4551_soup image:http://reading-cdn.dubaner.com/resource/word/image/G6S1U1_soup.png
+http code:404 world:3875_milk image:http://reading-cdn.dubaner.com/resource/word/image/G1S2U5_milk.png
+http code:404 world:3912_thin image:http://reading-cdn.dubaner.com/resource/word/image/G2S1U3_thin.png
+http code:404 world:3943_make a model plane image:http://reading-cdn.dubaner.com/resource/word/image/G2S2U1_make_a_model_plane.png
+http code:404 world:4164_cooking dinner image:http://reading-cdn.dubaner.com/resource/word/image/G3S2U5_cooking_dinner.png
+http code:404 world:4070_shorts image:http://reading-cdn.dubaner.com/resource/word/image/G3S1U5_shorts.png
+http code:404 world:4560_the Potala Palace image:http://reading-cdn.dubaner.com/resource/word/image/G6S1U1_the_Potala_Palace.png
+http code:404 world:4111_playground image:http://reading-cdn.dubaner.com/resource/word/image/G3S2U2_playground.png
+http code:404 world:4125_play football image:http://reading-cdn.dubaner.com/resource/word/image/G3S2U3_play_football.png
+http code:404 world:3906_pretty image:http://reading-cdn.dubaner.com/resource/word/image/G2S1U3_pretty.png
+http code:404 world:3939_fly a kite image:http://reading-cdn.dubaner.com/resource/word/image/G2S2U1_fly_a_kite.png
+http code:404 world:3960_hot image:http://reading-cdn.dubaner.com/resource/word/image/G2S2U3_hot.png
+http code:404 world:3977_get up image:http://reading-cdn.dubaner.com/resource/word/image/G2S2U5_get_up.png
+http code:404 world:4421_a box of crayons image:http://reading-cdn.dubaner.com/resource/word/image/G5S1U4_a_box_of_crayons.png
+http code:404 world:3959_season image:http://reading-cdn.dubaner.com/resource/word/image/G2S2U3_season.png
+http code:404 world:4349_hobby image:http://reading-cdn.dubaner.com/resource/word/image/G4S2U4_hobby.png
+http code:404 world:4443_clean the room image:http://reading-cdn.dubaner.com/resource/word/image/G5S1U6_clean_the_room.png
+http code:404 world:4204_go to the cinema image:http://reading-cdn.dubaner.com/resource/word/image/G4S1U2_go_to_the_cinema.png
+http code:404 world:3854_near image:http://reading-cdn.dubaner.com/resource/word/image/G1S2U2_near.png
+http code:404 world:3911_new image:http://reading-cdn.dubaner.com/resource/word/image/G2S1U3_new.png
+http code:404 world:3940_play football image:http://reading-cdn.dubaner.com/resource/word/image/G2S2U1_play_football.png
+http code:404 world:4049_rabbit image:http://reading-cdn.dubaner.com/resource/word/image/G3S1U4_rabbit.png
+http code:404 world:4302_get to image:http://reading-cdn.dubaner.com/resource/word/image/G4S2U1_get_to.png
+http code:404 world:4423_a pair of scissors image:http://reading-cdn.dubaner.com/resource/word/image/G5S1U4_a_pair_of_scissors.png
+http code:404 world:4682_hot pot image:http://reading-cdn.dubaner.com/resource/word/image/G6S2U6_hot_pot.png
+http code:404 world:4140_uncle image:http://reading-cdn.dubaner.com/resource/word/image/G3S2U4_uncle.png
+http code:404 world:4266_safety rule image:http://reading-cdn.dubaner.com/resource/word/image/G4S1U5_safety_rule.png
+http code:404 world:3950_wow image:http://reading-cdn.dubaner.com/resource/word/image/G2S2U2_wow.png
+http code:404 world:4053_small image:http://reading-cdn.dubaner.com/resource/word/image/G3S1U4_small.png
+http code:404 world:3990_Saturday image:http://reading-cdn.dubaner.com/resource/word/image/G2S2U6_Saturday.png
+http code:404 world:4273_Tuesday image:http://reading-cdn.dubaner.com/resource/word/image/G4S1U6_Tuesday.png
+http code:404 world:4353_collecting erasers image:http://reading-cdn.dubaner.com/resource/word/image/G4S2U4_collecting_erasers.png
+http code:404 world:4575_London image:http://reading-cdn.dubaner.com/resource/word/image/G6S1U2_London.png
+http code:404 world:4149_know image:http://reading-cdn.dubaner.com/resource/word/image/G3S2U4_know.png
+http code:404 world:4221_usually image:http://reading-cdn.dubaner.com/resource/word/image/G4S1U3_usually.png
+http code:404 world:4364_go for a picnic image:http://reading-cdn.dubaner.com/resource/word/image/G4S2U5_go_for_a_picnic.png
+http code:404 world:4571_hiking image:http://reading-cdn.dubaner.com/resource/word/image/G6S1U2_hiking.png
+http code:404 world:4366_do the housework image:http://reading-cdn.dubaner.com/resource/word/image/G4S2U5_do_the_housework.png
+http code:404 world:3957_warm image:http://reading-cdn.dubaner.com/resource/word/image/G2S2U3_warm.png
+http code:404 world:3926_lake image:http://reading-cdn.dubaner.com/resource/word/image/G2S1U5_lake.png
+http code:404 world:4139_OK image:http://reading-cdn.dubaner.com/resource/word/image/G3S2U4_OK.png
+http code:404 world:4205_Saturday image:http://reading-cdn.dubaner.com/resource/word/image/G4S1U2_Saturday.png
+http code:404 world:4243_pencil image:http://reading-cdn.dubaner.com/resource/word/image/G4S1U4_pencil.png
+http code:404 world:4279_worker image:http://reading-cdn.dubaner.com/resource/word/image/G4S1U6_worker.png
+http code:404 world:4626_invent image:http://reading-cdn.dubaner.com/resource/word/image/G6S1U5_invent.png
+http code:404 world:3872_water image:http://reading-cdn.dubaner.com/resource/word/image/G1S2U5_water.png
+http code:404 world:3944_make a snowman image:http://reading-cdn.dubaner.com/resource/word/image/G2S2U1_make_a_snowman.png
+http code:404 world:4449_too much image:http://reading-cdn.dubaner.com/resource/word/image/G5S2U1_too_much.png
+http code:404 world:4083_party image:http://reading-cdn.dubaner.com/resource/word/image/G3S1U6_party.png
+http code:404 world:4143_water bottle image:http://reading-cdn.dubaner.com/resource/word/image/G3S2U4_water_bottle.png
+http code:404 world:4570_president image:http://reading-cdn.dubaner.com/resource/word/image/G6S1U2_president.png
+http code:404 world:3882_skirt image:http://reading-cdn.dubaner.com/resource/word/image/G1S2U6_skirt.png
+http code:404 world:4492_mail a present image:http://reading-cdn.dubaner.com/resource/word/image/G5S2U3_mail_a_present.png
+http code:404 world:4358_doing jigsaw puzzles image:http://reading-cdn.dubaner.com/resource/word/image/G4S2U4_doing_jigsaw_puzzles.png
+http code:404 world:3799_mouth image:http://reading-cdn.dubaner.com/resource/word/image/G1S1U2_mouth.png
+http code:404 world:4289_teacher image:http://reading-cdn.dubaner.com/resource/word/image/G4S1U6_teacher.png
+http code:404 world:4283_job image:http://reading-cdn.dubaner.com/resource/word/image/G4S1U6_job.png
+http code:404 world:4060_monkey image:http://reading-cdn.dubaner.com/resource/word/image/G3S1U4_monkey.png
+http code:404 world:4362_play the violin image:http://reading-cdn.dubaner.com/resource/word/image/G4S2U5_play_the_violin.png
+http code:404 world:4477_Teacher's Day image:http://reading-cdn.dubaner.com/resource/word/image/G5S2U2_Teacher's_Day.png
+http code:404 world:4480_Christmas Day image:http://reading-cdn.dubaner.com/resource/word/image/G5S2U2_Christmas_Day.png
+http code:404 world:4163_cleaning the room image:http://reading-cdn.dubaner.com/resource/word/image/G3S2U5_cleaning_the_room.png
+http code:404 world:4399_wear glasses image:http://reading-cdn.dubaner.com/resource/word/image/G5S1U2_wear_glasses.png
+http code:404 world:4131_really image:http://reading-cdn.dubaner.com/resource/word/image/G3S2U3_really.png
+http code:404 world:4191_jumping rope image:http://reading-cdn.dubaner.com/resource/word/image/G4S1U1_jumping_rope.png
+http code:404 world:4102_computer class image:http://reading-cdn.dubaner.com/resource/word/image/G3S2U1_computer_class.png
+http code:404 world:4002_my image:http://reading-cdn.dubaner.com/resource/word/image/G3S1U1_my.png
+http code:404 world:4094_May image:http://reading-cdn.dubaner.com/resource/word/image/G3S1U6_May.png
+http code:404 world:4244_phone image:http://reading-cdn.dubaner.com/resource/word/image/G4S1U4_phone.png
+http code:404 world:3830_yellow image:http://reading-cdn.dubaner.com/resource/word/image/G1S1U5_yellow.png
+http code:404 world:4259_play football image:http://reading-cdn.dubaner.com/resource/word/image/G4S1U5_play_football.png
+http code:404 world:3868_rice image:http://reading-cdn.dubaner.com/resource/word/image/G1S2U4_rice.png
+http code:404 world:3954_sunny image:http://reading-cdn.dubaner.com/resource/word/image/G2S2U2_sunny.png
+http code:404 world:4027_tomato image:http://reading-cdn.dubaner.com/resource/word/image/G3S1U3_tomato.png
+http code:404 world:4493_make a card image:http://reading-cdn.dubaner.com/resource/word/image/G5S2U3_make_a_card.png
+http code:404 world:4543_started to use a computer image:http://reading-cdn.dubaner.com/resource/word/image/G5S2U6_started_to_use_a_computer.png
+http code:404 world:3910_tall image:http://reading-cdn.dubaner.com/resource/word/image/G2S1U3_tall.png
+http code:404 world:4245_use image:http://reading-cdn.dubaner.com/resource/word/image/G4S1U4_use.png
+http code:404 world:4332_stay image:http://reading-cdn.dubaner.com/resource/word/image/G4S2U2_stay.png
+http code:404 world:4136_swim image:http://reading-cdn.dubaner.com/resource/word/image/G3S2U3_swim.png
+http code:404 world:4440_wash clothes image:http://reading-cdn.dubaner.com/resource/word/image/G5S1U6_wash_clothes.png
+http code:404 world:4484_Mother's Day image:http://reading-cdn.dubaner.com/resource/word/image/G5S2U2_Mother's_Day.png
+http code:404 world:4502_washed clothes image:http://reading-cdn.dubaner.com/resource/word/image/G5S2U4_washed_clothes.png
+http code:404 world:3811_tiger image:http://reading-cdn.dubaner.com/resource/word/image/G1S1U3_tiger.png
+http code:404 world:3852_light image:http://reading-cdn.dubaner.com/resource/word/image/G1S2U2_light.png
+http code:404 world:4472_twelfth(12th) image:http://reading-cdn.dubaner.com/resource/word/image/G5S2U2_twelfth(12th).png
+http code:404 world:4501_played the piano image:http://reading-cdn.dubaner.com/resource/word/image/G5S2U4_played_the_piano.png
+http code:404 world:4509_climbed a hill image:http://reading-cdn.dubaner.com/resource/word/image/G5S2U4_climbed_a_hill.png
+http code:404 world:4114_second image:http://reading-cdn.dubaner.com/resource/word/image/G3S2U2_second.png
+http code:404 world:4476_have a picnic image:http://reading-cdn.dubaner.com/resource/word/image/G5S2U2_have_a_picnic.png
+http code:404 world:4190_interesting image:http://reading-cdn.dubaner.com/resource/word/image/G4S1U1_interesting.png
+http code:404 world:4108_our image:http://reading-cdn.dubaner.com/resource/word/image/G3S2U2_our.png
+http code:404 world:4522_slept image:http://reading-cdn.dubaner.com/resource/word/image/G5S2U5_slept.png
+http code:404 world:3871_noodles image:http://reading-cdn.dubaner.com/resource/word/image/G1S2U4_noodles.png
+http code:404 world:4197_pick fruit image:http://reading-cdn.dubaner.com/resource/word/image/G4S1U2_pick_fruit.png
+http code:404 world:4322_see a film image:http://reading-cdn.dubaner.com/resource/word/image/G4S2U2_see_a_film.png
+http code:404 world:4671_special image:http://reading-cdn.dubaner.com/resource/word/image/G6S2U4_special.png
+http code:404 world:4122_after school image:http://reading-cdn.dubaner.com/resource/word/image/G3S2U3_after_school.png
+http code:404 world:4181_often image:http://reading-cdn.dubaner.com/resource/word/image/G4S1U1_often.png
+http code:404 world:4381_the USA image:http://reading-cdn.dubaner.com/resource/word/image/G4S2U6_the_USA.png
+http code:404 world:4207_house image:http://reading-cdn.dubaner.com/resource/word/image/G4S1U2_house.png
+http code:404 world:4393_helpful image:http://reading-cdn.dubaner.com/resource/word/image/G5S1U1_helpful.png
+http code:404 world:3867_want image:http://reading-cdn.dubaner.com/resource/word/image/G1S2U4_want.png
+http code:404 world:4043_noodles image:http://reading-cdn.dubaner.com/resource/word/image/G3S1U3_noodles.png
+http code:404 world:4192_late image:http://reading-cdn.dubaner.com/resource/word/image/G4S1U1_late.png
+http code:404 world:4219_park image:http://reading-cdn.dubaner.com/resource/word/image/G4S1U3_park.png
+http code:404 world:4334_take photos image:http://reading-cdn.dubaner.com/resource/word/image/G4S2U2_take_photos.png
+http code:404 world:4096_October image:http://reading-cdn.dubaner.com/resource/word/image/G3S1U6_October.png
+http code:404 world:4410_pig image:http://reading-cdn.dubaner.com/resource/word/image/G5S1U3_pig.png
+http code:404 world:4285_sound image:http://reading-cdn.dubaner.com/resource/word/image/G4S1U6_sound.png
+http code:404 world:4488_say image:http://reading-cdn.dubaner.com/resource/word/image/G5S2U3_say.png
+http code:404 world:4513_felt happy image:http://reading-cdn.dubaner.com/resource/word/image/G5S2U5_felt_happy.png
+http code:404 world:4684_shopping mall image:http://reading-cdn.dubaner.com/resource/word/image/G6S2U6_shopping_mall.png
+http code:404 world:4146_handsome image:http://reading-cdn.dubaner.com/resource/word/image/G3S2U4_handsome.png
+http code:404 world:4214_near image:http://reading-cdn.dubaner.com/resource/word/image/G4S1U2_near.png
+http code:404 world:4003_name image:http://reading-cdn.dubaner.com/resource/word/image/G3S1U1_name.png
+http code:404 world:4062_tiger image:http://reading-cdn.dubaner.com/resource/word/image/G3S1U4_tiger.png
+http code:404 world:4075_socks image:http://reading-cdn.dubaner.com/resource/word/image/G3S1U5_socks.png
+http code:404 world:4189_What about image:http://reading-cdn.dubaner.com/resource/word/image/G4S1U1_What_about.png
+http code:404 world:4269_climb on the window ledge image:http://reading-cdn.dubaner.com/resource/word/image/G4S1U5_climb_on_the_window_ledge.png
+http code:404 world:4675_roast turkey image:http://reading-cdn.dubaner.com/resource/word/image/G6S2U5_roast_turkey.png
+http code:404 world:3855_train image:http://reading-cdn.dubaner.com/resource/word/image/G1S2U3_train.png
+http code:404 world:4064_T-shirt image:http://reading-cdn.dubaner.com/resource/word/image/G3S1U5_T-shirt.png
+http code:404 world:4250_schoolbag image:http://reading-cdn.dubaner.com/resource/word/image/G4S1U4_schoolbag.png
+http code:404 world:4342_sea image:http://reading-cdn.dubaner.com/resource/word/image/G4S2U3_sea.png
+http code:404 world:4494_make a phone call image:http://reading-cdn.dubaner.com/resource/word/image/G5S2U3_make_a_phone_call.png
+http code:404 world:3810_monkey image:http://reading-cdn.dubaner.com/resource/word/image/G1S1U3_monkey.png
+http code:404 world:4013_hand image:http://reading-cdn.dubaner.com/resource/word/image/G3S1U2_hand.png
+http code:404 world:4651_live image:http://reading-cdn.dubaner.com/resource/word/image/G6S2U1_live.png
+http code:404 world:3816_two image:http://reading-cdn.dubaner.com/resource/word/image/G1S1U4_two.png
+http code:404 world:3998_your image:http://reading-cdn.dubaner.com/resource/word/image/G3S1U1_your.png
+http code:404 world:4135_make a snowman image:http://reading-cdn.dubaner.com/resource/word/image/G3S2U3_make_a_snowman.png
+http code:404 world:4683_shopping centre image:http://reading-cdn.dubaner.com/resource/word/image/G6S2U6_shopping_centre.png
+http code:404 world:4653_art gallery image:http://reading-cdn.dubaner.com/resource/word/image/G6S2U2_art_gallery.png
+http code:404 world:3879_your image:http://reading-cdn.dubaner.com/resource/word/image/G1S2U6_your.png
+http code:404 world:3946_umbrella image:http://reading-cdn.dubaner.com/resource/word/image/G2S2U2_umbrella.png
+http code:404 world:4368_three times a week image:http://reading-cdn.dubaner.com/resource/word/image/G4S2U5_three_times_a_week.png
+http code:404 world:3947_weather image:http://reading-cdn.dubaner.com/resource/word/image/G2S2U2_weather.png
+http code:404 world:4248_ruler image:http://reading-cdn.dubaner.com/resource/word/image/G4S1U4_ruler.png
+http code:404 world:4072_should image:http://reading-cdn.dubaner.com/resource/word/image/G3S1U5_should.png
+http code:404 world:4292_Thursday image:http://reading-cdn.dubaner.com/resource/word/image/G4S1U6_Thursday.png
+http code:404 world:4426_pencil box image:http://reading-cdn.dubaner.com/resource/word/image/G5S1U4_pencil_box.png
+http code:404 world:4438_news shows image:http://reading-cdn.dubaner.com/resource/word/image/G5S1U5_news_shows.png
+http code:404 world:3913_park image:http://reading-cdn.dubaner.com/resource/word/image/G2S1U4_park.png
+http code:404 world:3999_how old image:http://reading-cdn.dubaner.com/resource/word/image/G3S1U1_how_old.png
+http code:404 world:4018_leg image:http://reading-cdn.dubaner.com/resource/word/image/G3S1U2_leg.png
+http code:404 world:4157_walking the dog image:http://reading-cdn.dubaner.com/resource/word/image/G3S2U5_walking_the_dog.png
+http code:404 world:4665_idea image:http://reading-cdn.dubaner.com/resource/word/image/G6S2U3_idea.png
+http code:404 world:4022_mouth image:http://reading-cdn.dubaner.com/resource/word/image/G3S1U2_mouth.png
+http code:404 world:4412_why image:http://reading-cdn.dubaner.com/resource/word/image/G5S1U3_why.png
+http code:404 world:3796_teacher image:http://reading-cdn.dubaner.com/resource/word/image/G1S1U1_teacher.png
+http code:404 world:4311_send image:http://reading-cdn.dubaner.com/resource/word/image/G4S2U1_send.png
+http code:404 world:4463_more image:http://reading-cdn.dubaner.com/resource/word/image/G5S2U1_more.png
+http code:404 world:4641_ice lantern image:http://reading-cdn.dubaner.com/resource/word/image/G6S1U6_ice_lantern.png
+http code:404 world:4638_bring image:http://reading-cdn.dubaner.com/resource/word/image/G6S1U6_bring.png
+http code:404 world:3841_on image:http://reading-cdn.dubaner.com/resource/word/image/G1S2U1_on.png
+http code:404 world:3893_mother image:http://reading-cdn.dubaner.com/resource/word/image/G2S1U1_mother.png
+http code:404 world:4165_listening to music image:http://reading-cdn.dubaner.com/resource/word/image/G3S2U5_listening_to_music.png
+http code:404 world:4208_so image:http://reading-cdn.dubaner.com/resource/word/image/G4S1U2_so.png
+http code:404 world:4345_take photos image:http://reading-cdn.dubaner.com/resource/word/image/G4S2U3_take_photos.png
+http code:404 world:4056_look for image:http://reading-cdn.dubaner.com/resource/word/image/G3S1U4_look_for.png
+http code:404 world:4127_wake up image:http://reading-cdn.dubaner.com/resource/word/image/G3S2U3_wake_up.png
+http code:404 world:4274_people image:http://reading-cdn.dubaner.com/resource/word/image/G4S1U6_people.png
+http code:404 world:4540_started to buy things image:http://reading-cdn.dubaner.com/resource/word/image/G5S2U6_started_to_buy_things.png
+http code:404 world:4657_Lake Ontario image:http://reading-cdn.dubaner.com/resource/word/image/G6S2U2_Lake_Ontario.png
+http code:404 world:3790_pencil image:http://reading-cdn.dubaner.com/resource/word/image/G1S1U1_pencil.png
+http code:404 world:4228_by plane image:http://reading-cdn.dubaner.com/resource/word/image/G4S1U3_by_plane.png
+http code:404 world:4370_pretty image:http://reading-cdn.dubaner.com/resource/word/image/G4S2U6_pretty.png
+http code:404 world:4224_by bike image:http://reading-cdn.dubaner.com/resource/word/image/G4S1U3_by_bike.png
+http code:404 world:3941_ride a bike image:http://reading-cdn.dubaner.com/resource/word/image/G2S2U1_ride_a_bike.png
+http code:404 world:4297_turn left image:http://reading-cdn.dubaner.com/resource/word/image/G4S2U1_turn_left.png
+http code:404 world:4667_together image:http://reading-cdn.dubaner.com/resource/word/image/G6S2U4_together.png
+http code:404 world:4117_library image:http://reading-cdn.dubaner.com/resource/word/image/G3S2U2_library.png
+http code:404 world:4337_thing image:http://reading-cdn.dubaner.com/resource/word/image/G4S2U2_thing.png
+http code:404 world:3917_zoo image:http://reading-cdn.dubaner.com/resource/word/image/G2S1U4_zoo.png
+http code:404 world:4445_sweep the floor image:http://reading-cdn.dubaner.com/resource/word/image/G5S1U6_sweep_the_floor.png
+http code:404 world:3862_sure image:http://reading-cdn.dubaner.com/resource/word/image/G1S2U3_sure.png
+http code:404 world:3829_red image:http://reading-cdn.dubaner.com/resource/word/image/G1S1U5_red.png
+http code:404 world:3949_windy image:http://reading-cdn.dubaner.com/resource/word/image/G2S2U2_windy.png
+http code:404 world:3874_tea image:http://reading-cdn.dubaner.com/resource/word/image/G1S2U5_tea.png
+http code:404 world:4371_Big Ben image:http://reading-cdn.dubaner.com/resource/word/image/G4S2U6_Big_Ben.png
+http code:404 world:4156_play with image:http://reading-cdn.dubaner.com/resource/word/image/G3S2U5_play_with.png
+http code:404 world:4526_drank cold drinks image:http://reading-cdn.dubaner.com/resource/word/image/G5S2U5_drank_cold_drinks.png
+http code:404 world:4236_meeting place image:http://reading-cdn.dubaner.com/resource/word/image/G4S1U3_meeting_place.png
+http code:404 world:4415_horse image:http://reading-cdn.dubaner.com/resource/word/image/G5S1U3_horse.png
+http code:404 world:4058_tail image:http://reading-cdn.dubaner.com/resource/word/image/G3S1U4_tail.png
+http code:404 world:4100_science image:http://reading-cdn.dubaner.com/resource/word/image/G3S2U1_science.png
+http code:404 world:4148_sister image:http://reading-cdn.dubaner.com/resource/word/image/G3S2U4_sister.png
+http code:404 world:4609_worried image:http://reading-cdn.dubaner.com/resource/word/image/G6S1U4_worried.png
+http code:404 world:4680_Thanksgiving image:http://reading-cdn.dubaner.com/resource/word/image/G6S2U5_Thanksgiving.png
+http code:404 world:4073_skirt image:http://reading-cdn.dubaner.com/resource/word/image/G3S1U5_skirt.png
+http code:404 world:4120_third image:http://reading-cdn.dubaner.com/resource/word/image/G3S2U2_third.png
+http code:404 world:4277_Wednesday image:http://reading-cdn.dubaner.com/resource/word/image/G4S1U6_Wednesday.png
+http code:404 world:4407_nice image:http://reading-cdn.dubaner.com/resource/word/image/G5S1U2_nice.png
+http code:404 world:3791_ruler image:http://reading-cdn.dubaner.com/resource/word/image/G1S1U1_ruler.png
+http code:404 world:3931_happy image:http://reading-cdn.dubaner.com/resource/word/image/G2S1U6_happy.png
+http code:404 world:4159_watering the plants image:http://reading-cdn.dubaner.com/resource/word/image/G3S2U5_watering_the_plants.png
+http code:404 world:4330_star image:http://reading-cdn.dubaner.com/resource/word/image/G4S2U2_star.png
+http code:404 world:4685_English-Chinese dictionary image:http://reading-cdn.dubaner.com/resource/word/image/G6S2U6_English-Chinese_dictionary.png
+http code:404 world:4468_together image:http://reading-cdn.dubaner.com/resource/word/image/G5S2U2_together.png
+http code:404 world:3845_in image:http://reading-cdn.dubaner.com/resource/word/image/G1S2U1_in.png
+http code:404 world:3921_tree image:http://reading-cdn.dubaner.com/resource/word/image/G2S1U5_tree.png
+http code:404 world:4137_draw pictures image:http://reading-cdn.dubaner.com/resource/word/image/G3S2U3_draw_pictures.png
+http code:404 world:4185_be good at image:http://reading-cdn.dubaner.com/resource/word/image/G4S1U1_be_good_at.png
+http code:404 world:4562_The Terracotta Army image:http://reading-cdn.dubaner.com/resource/word/image/G6S1U1_The_Terracotta_Army.png
+http code:404 world:4284_just image:http://reading-cdn.dubaner.com/resource/word/image/G4S1U6_just.png
+http code:404 world:4260_wait for image:http://reading-cdn.dubaner.com/resource/word/image/G4S1U5_wait_for.png
+http code:404 world:3832_orange image:http://reading-cdn.dubaner.com/resource/word/image/G1S1U6_orange.png
+http code:404 world:3866_vegetable image:http://reading-cdn.dubaner.com/resource/word/image/G1S2U4_vegetable.png
+http code:404 world:4390_quiet image:http://reading-cdn.dubaner.com/resource/word/image/G5S1U1_quiet.png
+http code:404 world:4433_exercise book image:http://reading-cdn.dubaner.com/resource/word/image/G5S1U4_exercise_book.png
+http code:404 world:4336_museum image:http://reading-cdn.dubaner.com/resource/word/image/G4S2U2_museum.png
+http code:404 world:4491_send an email image:http://reading-cdn.dubaner.com/resource/word/image/G5S2U3_send_an_email.png
+http code:404 world:4490_send a short message image:http://reading-cdn.dubaner.com/resource/word/image/G5S2U3_send_a_short_message.png
+http code:404 world:4652_meet image:http://reading-cdn.dubaner.com/resource/word/image/G6S2U1_meet.png
+http code:404 world:4466_tired image:http://reading-cdn.dubaner.com/resource/word/image/G5S2U1_tired.png
+http code:404 world:4508_cleaned the window image:http://reading-cdn.dubaner.com/resource/word/image/G5S2U4_cleaned_the_window.png
+http code:404 world:4174_kitchen image:http://reading-cdn.dubaner.com/resource/word/image/G3S2U6_kitchen.png
+http code:404 world:4529_out of image:http://reading-cdn.dubaner.com/resource/word/image/G5S2U6_out_of.png
+http code:404 world:4634_pen pal image:http://reading-cdn.dubaner.com/resource/word/image/G6S1U6_pen_pal.png
+http code:404 world:3992_Monday image:http://reading-cdn.dubaner.com/resource/word/image/G2S2U6_Monday.png
+http code:404 world:3919_supermarket image:http://reading-cdn.dubaner.com/resource/word/image/G2S1U4_supermarket.png
+http code:404 world:4123_fly a kite image:http://reading-cdn.dubaner.com/resource/word/image/G3S2U3_fly_a_kite.png
+http code:404 world:4650_scarf image:http://reading-cdn.dubaner.com/resource/word/image/G6S2U1_scarf.png
+http code:404 world:4500_played computer games image:http://reading-cdn.dubaner.com/resource/word/image/G5S2U4_played_computer_games.png
+http code:404 world:4517_went to the beach image:http://reading-cdn.dubaner.com/resource/word/image/G5S2U5_went_to_the_beach.png
+http code:404 world:4563_the Yangtze River image:http://reading-cdn.dubaner.com/resource/word/image/G6S1U1_the_Yangtze_River.png
+http code:404 world:3945_swim image:http://reading-cdn.dubaner.com/resource/word/image/G2S2U1_swim.png
+http code:404 world:4444_make the bed image:http://reading-cdn.dubaner.com/resource/word/image/G5S1U6_make_the_bed.png
+http code:404 world:4640_hear image:http://reading-cdn.dubaner.com/resource/word/image/G6S1U6_hear.png
+http code:404 world:3833_pear image:http://reading-cdn.dubaner.com/resource/word/image/G1S1U6_pear.png
+http code:404 world:3986_today image:http://reading-cdn.dubaner.com/resource/word/image/G2S2U6_today.png
+http code:404 world:4134_make a model plane image:http://reading-cdn.dubaner.com/resource/word/image/G3S2U3_make_a_model_plane.png
+http code:404 world:3881_shorts image:http://reading-cdn.dubaner.com/resource/word/image/G1S2U6_shorts.png
+http code:404 world:4288_teach image:http://reading-cdn.dubaner.com/resource/word/image/G4S1U6_teach.png
+http code:404 world:3948_rainy image:http://reading-cdn.dubaner.com/resource/word/image/G2S2U2_rainy.png
+http code:404 world:3991_Sunday image:http://reading-cdn.dubaner.com/resource/word/image/G2S2U6_Sunday.png
+http code:404 world:4066_wear image:http://reading-cdn.dubaner.com/resource/word/image/G3S1U5_wear.png
+http code:404 world:4178_dining room image:http://reading-cdn.dubaner.com/resource/word/image/G3S2U6_dining_room.png
+http code:404 world:4377_cute image:http://reading-cdn.dubaner.com/resource/word/image/G4S2U6_cute.png
+http code:404 world:4623_blind image:http://reading-cdn.dubaner.com/resource/word/image/G6S1U5_blind.png
+http code:404 world:4427_pencil sharpener image:http://reading-cdn.dubaner.com/resource/word/image/G5S1U4_pencil_sharpener.png
+http code:404 world:3898_woman image:http://reading-cdn.dubaner.com/resource/word/image/G2S1U2_woman.png
+http code:404 world:4309_restaurant image:http://reading-cdn.dubaner.com/resource/word/image/G4S2U1_restaurant.png
+http code:404 world:3961_spring image:http://reading-cdn.dubaner.com/resource/word/image/G2S2U3_spring.png
+http code:404 world:4055_long image:http://reading-cdn.dubaner.com/resource/word/image/G3S1U4_long.png
+http code:404 world:4152_mother image:http://reading-cdn.dubaner.com/resource/word/image/G3S2U4_mother.png
+http code:404 world:4079_sweater image:http://reading-cdn.dubaner.com/resource/word/image/G3S1U5_sweater.png
+http code:404 world:4086_birthday image:http://reading-cdn.dubaner.com/resource/word/image/G3S1U6_birthday.png
+http code:404 world:4254_knife image:http://reading-cdn.dubaner.com/resource/word/image/G4S1U4_knife.png
+http code:404 world:3804_nose image:http://reading-cdn.dubaner.com/resource/word/image/G1S1U2_nose.png
+http code:404 world:3825_three image:http://reading-cdn.dubaner.com/resource/word/image/G1S1U4_three.png
+http code:404 world:4515_ate ice-cream image:http://reading-cdn.dubaner.com/resource/word/image/G5S2U5_ate_ice-cream.png
+http code:404 world:4661_at least image:http://reading-cdn.dubaner.com/resource/word/image/G6S2U3_at_least.png
+http code:404 world:3951_snowy image:http://reading-cdn.dubaner.com/resource/word/image/G2S2U2_snowy.png
+http code:404 world:4620_university image:http://reading-cdn.dubaner.com/resource/word/image/G6S1U5_university.png
+http code:404 world:3967_twelve image:http://reading-cdn.dubaner.com/resource/word/image/G2S2U4_twelve.png
+http code:404 world:3838_like image:http://reading-cdn.dubaner.com/resource/word/image/G1S1U6_like.png
+http code:404 world:4431_how much image:http://reading-cdn.dubaner.com/resource/word/image/G5S1U4_how_much.png
+http code:404 world:3873_juice image:http://reading-cdn.dubaner.com/resource/word/image/G1S2U5_juice.png
+http code:404 world:4225_by boat image:http://reading-cdn.dubaner.com/resource/word/image/G4S1U3_by_boat.png
+http code:404 world:4242_pen image:http://reading-cdn.dubaner.com/resource/word/image/G4S1U4_pen.png
+http code:404 world:4648_pupil image:http://reading-cdn.dubaner.com/resource/word/image/G6S2U1_pupil.png
+http code:404 world:4209_climb a hill image:http://reading-cdn.dubaner.com/resource/word/image/G4S1U2_climb_a_hill.png
+http code:404 world:4537_learned to ride a bike image:http://reading-cdn.dubaner.com/resource/word/image/G5S2U6_learned_to_ride_a_bike.png
+http code:404 world:4485_National Day image:http://reading-cdn.dubaner.com/resource/word/image/G5S2U2_National_Day.png
+http code:404 world:4538_learned to swim image:http://reading-cdn.dubaner.com/resource/word/image/G5S2U6_learned_to_swim.png
+http code:404 world:4605_sad image:http://reading-cdn.dubaner.com/resource/word/image/G6S1U4_sad.png
+http code:404 world:3842_under image:http://reading-cdn.dubaner.com/resource/word/image/G1S2U1_under.png
+http code:404 world:4151_lost image:http://reading-cdn.dubaner.com/resource/word/image/G3S2U4_lost.png
+http code:404 world:4655_Queen's Park image:http://reading-cdn.dubaner.com/resource/word/image/G6S2U2_Queen's_Park.png
+http code:404 world:4346_the Great Wall image:http://reading-cdn.dubaner.com/resource/word/image/G4S2U3_the_Great_Wall.png
+http code:404 world:4090_June image:http://reading-cdn.dubaner.com/resource/word/image/G3S1U6_June.png
+http code:404 world:4379_maple leaves image:http://reading-cdn.dubaner.com/resource/word/image/G4S2U6_maple_leaves.png
+http code:404 world:4530_all over image:http://reading-cdn.dubaner.com/resource/word/image/G5S2U6_all_over.png
+http code:404 world:3973_thirteen image:http://reading-cdn.dubaner.com/resource/word/image/G2S2U4_thirteen.png
+http code:404 world:4201_go fishing image:http://reading-cdn.dubaner.com/resource/word/image/G4S1U2_go_fishing.png
+http code:404 world:4428_please image:http://reading-cdn.dubaner.com/resource/word/image/G5S1U4_please.png
+http code:404 world:4230_by ship image:http://reading-cdn.dubaner.com/resource/word/image/G4S1U3_by_ship.png
+http code:404 world:4026_nose image:http://reading-cdn.dubaner.com/resource/word/image/G3S1U2_nose.png
+http code:404 world:4215_their image:http://reading-cdn.dubaner.com/resource/word/image/G4S1U2_their.png
+http code:404 world:4282_in the future image:http://reading-cdn.dubaner.com/resource/word/image/G4S1U6_in_the_future.png
+http code:404 world:4542_started to study English image:http://reading-cdn.dubaner.com/resource/word/image/G5S2U6_started_to_study_English.png
+http code:404 world:4636_be afraid of image:http://reading-cdn.dubaner.com/resource/word/image/G6S1U6_be_afraid_of.png
+http code:404 world:3812_one image:http://reading-cdn.dubaner.com/resource/word/image/G1S1U4_one.png
+http code:404 world:3989_Wednesday image:http://reading-cdn.dubaner.com/resource/word/image/G2S2U6_Wednesday.png
+http code:404 world:4103_maths image:http://reading-cdn.dubaner.com/resource/word/image/G3S2U1_maths.png
+http code:404 world:4417_lovely image:http://reading-cdn.dubaner.com/resource/word/image/G5S1U3_lovely.png
+http code:404 world:3984_eat lunch image:http://reading-cdn.dubaner.com/resource/word/image/G2S2U5_eat_lunch.png
+http code:404 world:4050_short image:http://reading-cdn.dubaner.com/resource/word/image/G3S1U4_short.png
+http code:404 world:4130_read books image:http://reading-cdn.dubaner.com/resource/word/image/G3S2U3_read_books.png
+http code:404 world:4380_the UK image:http://reading-cdn.dubaner.com/resource/word/image/G4S2U6_the_UK.png
+http code:404 world:4437_nature shows image:http://reading-cdn.dubaner.com/resource/word/image/G5S1U5_nature_shows.png
+http code:404 world:4276_police officer image:http://reading-cdn.dubaner.com/resource/word/image/G4S1U6_police_officer.png
+http code:404 world:4015_help image:http://reading-cdn.dubaner.com/resource/word/image/G3S1U2_help.png
+http code:404 world:3968_twenty image:http://reading-cdn.dubaner.com/resource/word/image/G2S2U4_twenty.png
+http code:404 world:4498_visited grandparents image:http://reading-cdn.dubaner.com/resource/word/image/G5S2U4_visited_grandparents.png
+http code:404 world:3817_seven image:http://reading-cdn.dubaner.com/resource/word/image/G1S1U4_seven.png
+http code:404 world:4087_September image:http://reading-cdn.dubaner.com/resource/word/image/G3S1U6_September.png
+http code:404 world:4177_study image:http://reading-cdn.dubaner.com/resource/word/image/G3S2U6_study.png
+http code:404 world:4216_on foot image:http://reading-cdn.dubaner.com/resource/word/image/G4S1U3_on_foot.png
+http code:404 world:4304_post office image:http://reading-cdn.dubaner.com/resource/word/image/G4S2U1_post_office.png
+http code:404 world:4664_sandwich image:http://reading-cdn.dubaner.com/resource/word/image/G6S2U3_sandwich.png
+http code:404 world:4318_next to image:http://reading-cdn.dubaner.com/resource/word/image/G4S2U1_next_to.png
+http code:404 world:4365_go skating image:http://reading-cdn.dubaner.com/resource/word/image/G4S2U5_go_skating.png
+http code:404 world:4247_glue stick image:http://reading-cdn.dubaner.com/resource/word/image/G4S1U4_glue_stick.png
+http code:404 world:3993_Thursday image:http://reading-cdn.dubaner.com/resource/word/image/G2S2U6_Thursday.png
+http code:404 world:4016_hurt image:http://reading-cdn.dubaner.com/resource/word/image/G3S1U2_hurt.png
+http code:404 world:4126_play sports image:http://reading-cdn.dubaner.com/resource/word/image/G3S2U3_play_sports.png
+http code:404 world:4261_play with fire image:http://reading-cdn.dubaner.com/resource/word/image/G4S1U5_play_with_fire.png
+http code:404 world:4294_nurse image:http://reading-cdn.dubaner.com/resource/word/image/G4S1U6_nurse.png
