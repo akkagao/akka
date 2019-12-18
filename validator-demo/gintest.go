@@ -9,6 +9,8 @@ import (
 	"github.com/go-playground/validator/v10"
 )
 
+//validate 设置方式 https://godoc.org/gopkg.in/go-playground/validator.v10
+
 type User struct {
 	ID int64 `form:"id" json:"id" validate:"gte=0,lte=130"`
 }
